@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SCORS - SDA Church Organizational Report System</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dark-theme">
+    
+    <!-- 1. LOGIN PAGE CONTAINER -->
+    <div id="login-container" class="page-container active">
+        <div class="login-card glass-panel">
+            <div class="login-header">
+                <div class="logo-circle">
+                    <i class="fa-solid fa-church"></i>
+                </div>
+                <h2>SCORS</h2>
+                <p>SDA Church Organizational Report System</p>
+            </div>
+            
+            <form id="login-form" class="form-group">
+                <div class="input-wrapper">
+                    <label for="login-username">Username</label>
+                    <div class="input-icon-field">
+                        <i class="fa-regular fa-user"></i>
+                        <input type="text" id="login-username" placeholder="Enter Username..." required>
+                    </div>
+                </div>
+                
+                <div class="input-wrapper">
+                    <label for="login-password">Password</label>
+                    <div class="input-icon-field">
+                        <i class="fa-solid fa-lock"></i>
+                        <input type="password" id="login-password" placeholder="••••••••" required>
+                    </div>
+                </div>
+                
+                <div class="error-banner" id="login-error">
+                    <i class="fa-solid fa-circle-exclamation"></i>
+                    <span id="login-error-text">Invalid username or password.</span>
+                </div>
+                
+                <button type="submit" class="btn btn-primary btn-block">
+                    <span>Sign In</span>
+                    <i class="fa-solid fa-arrow-right-to-bracket"></i>
+                </button>
+            </form>
+            
+            <div class="login-footer">
+                <p>&copy; 2026 Papa Unicorn Team. All Rights Reserved.</p>
+            </div>
+        </div>
+    </div>
+ 
+    <!-- 2. MAIN APP CONTAINER -->
+    <div id="app-container" class="page-container">
+        
+        <!-- SIDEBAR -->
+        <aside class="app-sidebar">
+            <div class="sidebar-brand">
+                <div class="brand-logo">
+                    <i class="fa-solid fa-circle-nodes"></i>
+                </div>
+                <div class="brand-text">
+                    <h3>SCORS</h3>
+                    <span>Performance Hub</span>
+                </div>
+            </div>
+            
+            <div class="sidebar-user glass-panel clickable" onclick="openProfileModal()" style="cursor: pointer;" title="Click to edit your profile">
+                <div class="user-avatar">
+                    <i class="fa-solid fa-user-tie"></i>
+                </div>
+                <div class="user-details">
+                    <h4 id="user-display-name">Budi Santoso</h4>
+                    <span id="user-display-role" class="badge-role">Teacher</span>
+                </div>
+            </div>
+            
+            <nav class="sidebar-menu">
+                <ul>
+                    <li id="menu-dashboard" class="menu-item active" onclick="switchTab('dashboard')">
+                        <i class="fa-solid fa-chart-pie"></i>
+                        <span>Dashboard</span>
+                    </li>
+                    <li id="menu-report" class="menu-item" onclick="switchTab('report')">
+                        <i class="fa-regular fa-file-lines"></i>
+                        <span>Self Reporting</span>
+                    </li>
+                    <li id="menu-monitor" class="menu-item" onclick="switchTab('monitor')">
+                        <i class="fa-solid fa-square-poll-vertical"></i>
+                        <span>Monitor & Verify</span>
+                    </li>
+                    <li id="menu-users" class="menu-item" onclick="switchTab('users')">
+                        <i class="fa-solid fa-users-gear"></i>
+                        <span>User Management</span>
+                    </li>
+                    <li id="menu-create-user" class="menu-item" onclick="switchTab('create-user')">
+                        <i class="fa-solid fa-user-plus"></i>
+                        <span>Create New User</span>
+                    </li>
+                </ul>
+            </nav>
+            
+            <div class="sidebar-footer">
+                <button class="btn btn-danger btn-block" onclick="handleLogout()">
+                    <i class="fa-solid fa-right-from-bracket"></i>
+                    <span>Log Out</span>
+                </button>
+            </div>
+        </aside>
+        
+        <!-- MAIN CONTENT -->
+        <main class="app-main">
+            
+            <!-- TOP BAR -->
+            <header class="main-header glass-panel">
+                <div class="header-title">
+                    <h2 id="current-tab-title">Performance Dashboard</h2>
+                    <p id="header-branch-path">Lineage Path: 1.1.1.2</p>
+                </div>
+                
+                <div class="header-actions">
+                    <!-- Term Filter -->
+                    <div class="term-picker">
+                        <label for="term-select">Reporting Period</label>
+                        <select id="term-select" onchange="loadDashboardData()">
+                            <option value="2026-06" selected>June 2026 (Active)</option>
+                            <option value="2025-12">December 2025</option>
+                            <option value="2025-06">June 2025</option>
+                        </select>
+                    </div>
+                </div>
+            </header>
+ 
+            <!-- TIME LOCK BANNER -->
+            <div id="time-lock-banner" class="alert-banner warning">
+                <div class="alert-icon">
+                    <i class="fa-solid fa-lock"></i>
+                </div>
+                <div class="alert-message">
+                    <h4>System Locked (Read-Only)</h4>
+                    <p>The reporting window outside of June and December has closed. All archived data is read-only.</p>
+                </div>
+            </div>
+ 
+            <div id="time-open-banner" class="alert-banner success">
+                <div class="alert-icon">
+                    <i class="fa-solid fa-lock-open"></i>
+                </div>
+                <div class="alert-message">
+                    <h4>Submission Window Open</h4>
+                    <p>The system is accepting report links for the active June/December term. Changes are allowed.</p>
+                </div>
+            </div>
+ 
+            <!-- CONTENT SECTIONS -->
+            
+            <!-- TAB: DASHBOARD -->
+            <section id="tab-dashboard" class="tab-content active">
+                <!-- METRIC WIDGETS -->
+                <div class="stats-grid">
+                    <div class="stat-card glass-panel">
+                        <div class="stat-icon purple">
+                            <i class="fa-solid fa-list-check"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-label">Total Target Reports</span>
+                            <h3 id="stat-total-target">0</h3>
+                            <p class="stat-desc">Registered Subjects & Departments</p>
+                        </div>
+                    </div>
+ 
+                    <div class="stat-card glass-panel">
+                        <div class="stat-icon green">
+                            <i class="fa-solid fa-circle-check"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-label">Approved Reports</span>
+                            <h3 id="stat-approved">0</h3>
+                            <p class="stat-desc">Verified and completed</p>
+                        </div>
+                    </div>
+ 
+                    <div class="stat-card glass-panel">
+                        <div class="stat-icon red">
+                            <i class="fa-solid fa-circle-xmark"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-label">Incomplete / Rejected</span>
+                            <h3 id="stat-unsubmitted">0</h3>
+                            <p class="stat-desc">Requires submission or correction</p>
+                        </div>
+                    </div>
+
+                    <div class="stat-card glass-panel progress-widget">
+                        <div class="progress-ring-container">
+                            <svg class="progress-ring" width="80" height="80">
+                                <circle class="progress-ring__circle-bg" stroke="#1e293b" stroke-width="6" fill="transparent" r="34" cx="40" cy="40"/>
+                                <circle id="progress-circle-value" class="progress-ring__circle" stroke="url(#progress-gradient)" stroke-width="6" fill="transparent" r="34" cx="40" cy="40" stroke-dasharray="213.6" stroke-dashoffset="213.6"/>
+                                <defs>
+                                    <linearGradient id="progress-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" stop-color="#8b5cf6" />
+                                        <stop offset="100%" stop-color="#3b82f6" />
+                                    </linearGradient>
+                                </defs>
+                            </svg>
+                            <div class="progress-percentage"><span id="stat-percent-text">0%</span></div>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-label">Performance Achievement</span>
+                            <h3 id="stat-percent-label">0%</h3>
+                            <p class="stat-desc">Of total assigned tasks</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- BLACKLIST TABLE -->
+                <div class="table-section glass-panel">
+                    <div class="table-header">
+                        <h3>Blacklist of Users with Outstanding Reports</h3>
+                        <p>List of users who have not submitted all or part of their assigned reports for the selected term.</p>
+                    </div>
+                    <div class="table-responsive">
+                        <table class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>Username/Name</th>
+                                    <th>User ID</th>
+                                    <th>Category</th>
+                                    <th>Assigned Task</th>
+                                    <th>Document Status</th>
+                                    <th>Latest Feedback</th>
+                                </tr>
+                            </thead>
+                            <tbody id="blacklist-table-body">
+                                <tr>
+                                    <td colspan="6" class="table-empty">Loading blacklist data...</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TAB: PELAPORAN MANDIRI (Teacher & MC Only) -->
+            <section id="tab-report" class="tab-content">
+                <div class="info-card glass-panel">
+                    <div class="card-icon">
+                        <i class="fa-solid fa-circle-info"></i>
+                    </div>
+                    <div>
+                        <h3>Reporting Instructions</h3>
+                        <p>Submit the Google Drive or OneDrive link to your report document. Ensure link sharing is set to <strong>"Anyone with the link can view"</strong> so your verifier can review the document.</p>
+                    </div>
+                </div>
+
+                <div class="report-grid" id="report-items-container">
+                    <!-- Dynamic report cards go here -->
+                </div>
+            </section>
+
+            <!-- TAB: MONITOR & VERIFIKASI (Institution, Union, Master) -->
+            <section id="tab-monitor" class="tab-content">
+                <div class="table-section glass-panel">
+                    <div class="table-header">
+                        <h3>Incoming Report Verification Queue</h3>
+                        <p>Review report links submitted by sub-entities one level below you. Provide feedback and either approve or reject (delete link).</p>
+                    </div>
+                    <div class="table-responsive">
+                        <table class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>Sender Name</th>
+                                    <th>Report Description</th>
+                                    <th>Term / Period</th>
+                                    <th>Document Link</th>
+                                    <th>Verification Status</th>
+                                    <th>Feedback / Correction Notes</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody id="monitor-table-body">
+                                <tr>
+                                    <td colspan="7" class="table-empty">Loading verification queue...</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TAB: MANAJEMEN PENGGUNA -->
+            <section id="tab-users" class="tab-content">
+                <!-- USER LIST TABLE -->
+                <div class="table-section glass-panel">
+                    <div class="table-header">
+                        <h3>Sub-Entity Accounts List</h3>
+                        <p>List of all user accounts within your branch administrative jurisdiction.</p>
+                    </div>
+                    
+                    <!-- TABLE FILTERS BAR -->
+                    <div class="table-filters">
+                        <div class="filter-group flex-grow">
+                            <label for="filter-user-name">Search Name / ID</label>
+                            <div class="input-icon-field">
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                                <input type="text" id="filter-user-name" placeholder="Type name, initials, or user ID...">
+                            </div>
+                        </div>
+                        <div class="filter-group">
+                            <label for="filter-user-division">Division</label>
+                            <select id="filter-user-division">
+                                <option value="">All Divisions</option>
+                            </select>
+                        </div>
+                        <div class="filter-group">
+                            <label for="filter-user-union">Union</label>
+                            <select id="filter-user-union">
+                                <option value="">All Unions</option>
+                            </select>
+                        </div>
+                        <div class="filter-group">
+                            <label for="filter-user-mc">Mission / Conference</label>
+                            <select id="filter-user-mc">
+                                <option value="">All Missions / Conferences</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="table-responsive">
+                        <table class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>User ID</th>
+                                    <th>Role / Level</th>
+                                    <th>Lineage Path</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody id="subordinates-table-body">
+                                <tr>
+                                    <td colspan="5" class="table-empty">Loading accounts list...</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TAB: BUAT PENGGUNA BARU -->
+            <section id="tab-create-user" class="tab-content">
+                <div class="create-user-container">
+                    <!-- CREATE USER FORM -->
+                    <div class="form-section glass-panel">
+                        <div class="form-header">
+                            <h3>Create New User</h3>
+                            <p id="user-creation-rule-text">Rule: You are only allowed to create users 1 level below you.</p>
+                        </div>
+                        
+                        <form id="create-user-form" class="form-group">
+                            <div class="input-wrapper">
+                                <label for="create-role">Role / Level</label>
+                                <select id="create-role" onchange="handleRoleChange()" required>
+                                    <!-- Options filled dynamically -->
+                                </select>
+                            </div>
+
+                            <div class="input-wrapper" id="create-position-wrapper" style="display: none;">
+                                <label for="create-position">Position / Title</label>
+                                <select id="create-position" onchange="handleCreatePositionChange()">
+                                    <option value="President" selected>President (President)</option>
+                                    <option value="Secretary">Secretary (Secretary)</option>
+                                    <option value="Treasurer">Treasurer (Treasurer)</option>
+                                    <option value="Department">Department (Department)</option>
+                                </select>
+                            </div>
+
+                            <div class="input-wrapper" id="create-department-wrapper" style="display: none;">
+                                <label for="create-department">Select Department</label>
+                                <select id="create-department">
+                                    <option value="" disabled selected>-- Select Department --</option>
+                                    <option value="Adventist Chaplaincy Ministries (ACM)">Adventist Chaplaincy Ministries (ACM)</option>
+                                    <option value="Children's Ministries (CHM)">Children's Ministries (CHM)</option>
+                                    <option value="Communication Department (COM)">Communication Department (COM)</option>
+                                    <option value="Education Department (EDU)">Education Department (EDU)</option>
+                                    <option value="Family Ministries (FM)">Family Ministries (FM)</option>
+                                    <option value="Health Ministries (HM)">Health Ministries (HM)</option>
+                                    <option value="Ministerial Association (MIN)">Ministerial Association (MIN)</option>
+                                    <option value="Planned Giving and Trust Services (PGTS)">Planned Giving and Trust Services (PGTS)</option>
+                                    <option value="Public Affairs and Religious Liberty (PARL)">Public Affairs and Religious Liberty (PARL)</option>
+                                    <option value="Publishing Ministries (PUB)">Publishing Ministries (PUB)</option>
+                                    <option value="Sabbath School and Personal Ministries (SSPM)">Sabbath School and Personal Ministries (SSPM)</option>
+                                    <option value="Stewardship Ministries (STEW)">Stewardship Ministries (STEW)</option>
+                                    <option value="Women's Ministries (WM)">Women's Ministries (WM)</option>
+                                    <option value="Youth Ministries (YM)">Youth Ministries (YM)</option>
+                                    <option value="Adventist Development and Relief Agency (ADRA)">Adventist Development and Relief Agency (ADRA)</option>
+                                    <option value="Adventist Mission (Handles Global Mission and Mission Offerings)">Adventist Mission (Global Mission & Offerings)</option>
+                                    <option value="Adventist Risk Management (ARM)">Adventist Risk Management (ARM)</option>
+                                    <option value="Ellen G. White Estate">Ellen G. White Estate</option>
+                                    <option value="General Conference Auditing Service (GCAS)">General Conference Auditing Service (GCAS)</option>
+                                </select>
+                            </div>
+
+                                 <div id="parent-selection-wrapper" style="display: none; width: 100%;">
+                                 <div class="input-wrapper" id="parent-division-wrapper" style="display: none; margin-bottom: 1rem;">
+                                     <label for="parent-division-select">Choose Division</label>
+                                     <select id="parent-division-select" onchange="onParentDivisionChange()">
+                                         <!-- Populated dynamically -->
+                                     </select>
+                                 </div>
+                                 <div class="input-wrapper" id="parent-union-wrapper" style="display: none; margin-bottom: 1rem;">
+                                     <label for="parent-union-select">Choose Union</label>
+                                     <select id="parent-union-select" onchange="onParentUnionChange()">
+                                         <!-- Populated dynamically -->
+                                     </select>
+                                 </div>
+                                 <div class="input-wrapper" id="parent-mc-wrapper" style="display: none; margin-bottom: 1rem;">
+                                     <label for="parent-mc-select">Choose Mission / Conference</label>
+                                     <select id="parent-mc-select" onchange="onParentMCChange()">
+                                         <!-- Populated dynamically -->
+                                     </select>
+                                 </div>
+                                 <div class="input-wrapper" id="parent-institution-wrapper" style="display: none; margin-bottom: 1rem;">
+                                     <label for="parent-institution-select">Choose Institution</label>
+                                     <select id="parent-institution-select">
+                                         <!-- Populated dynamically -->
+                                     </select>
+                                 </div>
+                                 <span class="input-hint" style="display: block; margin-top: -0.5rem; margin-bottom: 1rem;">Used as a reference to verify the hierarchical lineage code.</span>
+                             </div>
+
+                            <div class="input-wrapper">
+                                <label for="create-name">Full Name</label>
+                                <input type="text" id="create-name" placeholder="Example: SMA Advent Martoba or John Doe, M.Pd." required>
+                            </div>
+                            
+                            <div class="input-wrapper" id="short-name-wrapper" style="display: none;">
+                                <label for="create-short-name">Initials / Short Name (Maximum 5 Characters)</label>
+                                <input type="text" id="create-short-name" placeholder="Example: RSAB" maxlength="5">
+                            </div>
+
+                            <div class="input-wrapper">
+                                <label for="create-password">Default Password</label>
+                                <input type="password" id="create-password" placeholder="Minimum 6 characters" required>
+                            </div>
+
+                            <!-- TARGET ASSIGNED ITEMS (Subjects or Departments) -->
+                            <div class="input-wrapper" id="assigned-items-wrapper" style="display: none;">
+                                <label id="assigned-items-label">Subjects (Subject)</label>
+                                <div id="assigned-items-list" class="dynamic-item-list">
+                                    <div class="dynamic-item-row">
+                                        <input type="text" class="assigned-item-input" placeholder="Enter item name...">
+                                        <button type="button" class="btn-icon btn-add-item" onclick="addDynamicItemRow()"><i class="fa-solid fa-plus"></i></button>
+                                    </div>
+                                </div>
+                                <span class="input-hint">Add one or more subjects/departments for which this user is responsible to report.</span>
+                            </div>
+
+                            <div class="error-banner" id="create-user-error">
+                                <i class="fa-solid fa-circle-exclamation"></i>
+                                <span id="create-user-error-text">Email already registered.</span>
+                            </div>
+
+                            <div class="success-banner" id="create-user-success">
+                                <i class="fa-solid fa-circle-check"></i>
+                                <span id="create-user-success-text">New user account created successfully!</span>
+                            </div>
+
+                            <button type="submit" class="btn btn-primary btn-block">
+                                <i class="fa-solid fa-user-plus"></i>
+                                <span>Create Account</span>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- MODAL: EDIT SUBJECTS / DEPARTMENTS -->
+    <div id="items-modal" class="modal-overlay">
+        <div class="modal-card glass-panel">
+            <div class="modal-header">
+                <h3>Manage Report Duty Items</h3>
+                <button class="modal-close" onclick="closeItemsModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p>Edit subjects (Teacher) or departments (Mission/Conference) assigned to user <strong><span id="modal-user-name">Name</span></strong>.</p>
+                
+                <input type="hidden" id="modal-user-id">
+                
+                <div class="input-wrapper">
+                    <label id="modal-items-label">Duty Items</label>
+                    <div id="modal-items-list" class="dynamic-item-list">
+                        <!-- Filled dynamically -->
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeItemsModal()">Cancel</button>
+                <button class="btn btn-primary" onclick="saveItemsModal()">Save Changes</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- MODAL: USER PROFILE SETTINGS -->
+    <div id="profile-modal" class="modal-overlay">
+        <div class="modal-card glass-panel" style="max-width: 450px;">
+            <div class="modal-header">
+                <h3>My Profile & Account Settings</h3>
+                <button class="modal-close" onclick="closeProfileModal()">&times;</button>
+            </div>
+            <div class="modal-body" style="padding: 1.5rem;">
+                <form id="profile-form" class="form-group" onsubmit="saveProfileModal(event)">
+                    <div class="input-wrapper" style="margin-bottom: 1rem;">
+                        <label>Username (ID)</label>
+                        <input type="text" id="profile-username" style="background: rgba(255,255,255,0.05); color: var(--text-muted);" readonly>
+                    </div>
+                    <div class="input-wrapper" style="margin-bottom: 1rem;">
+                        <label>Level & Position</label>
+                        <input type="text" id="profile-role-position" style="background: rgba(255,255,255,0.05); color: var(--text-muted);" readonly>
+                    </div>
+                    <div class="input-wrapper" style="margin-bottom: 1.5rem;">
+                        <label>Hierarchical Lineage (Lineage Code)</label>
+                        <input type="text" id="profile-lineage" style="background: rgba(255,255,255,0.05); color: var(--text-muted);" readonly>
+                    </div>
+                    
+                    <hr style="border: 0; border-top: 1px solid rgba(255,255,255,0.1); margin: 1.5rem 0;">
+                    
+                    <div class="input-wrapper" style="margin-bottom: 1rem;">
+                        <label for="profile-name">Full Name</label>
+                        <input type="text" id="profile-name" required>
+                    </div>
+                    <div class="input-wrapper" style="margin-bottom: 1rem;">
+                        <label for="profile-email">Email Address</label>
+                        <input type="email" id="profile-email" placeholder="Example: user@email.com">
+                    </div>
+                    <div class="input-wrapper" style="margin-bottom: 1rem;">
+                        <label for="profile-phone">Phone / WhatsApp Number</label>
+                        <input type="tel" id="profile-phone" placeholder="Example: +123456789">
+                    </div>
+                    <div class="input-wrapper" style="margin-bottom: 1.5rem;">
+                        <label for="profile-password">Change Password (Optional)</label>
+                        <input type="password" id="profile-password" placeholder="Leave empty to keep unchanged">
+                    </div>
+                    
+                    <div class="modal-footer" style="padding: 1rem 0 0 0; display: flex; justify-content: flex-end; gap: 10px; border: 0;">
+                        <button type="button" class="btn btn-secondary" onclick="closeProfileModal()">Cancel</button>
+                        <button type="submit" class="btn btn-primary">Save Profile</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

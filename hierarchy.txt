@@ -1,0 +1,736 @@
+Division;Union;Mission / Conference
+East-Central Africa Division (ECD);Burundi Union Mission;East Burundi Field
+East-Central Africa Division (ECD);Burundi Union Mission;Mabayi Field
+East-Central Africa Division (ECD);Burundi Union Mission;North Burundi Field
+East-Central Africa Division (ECD);Burundi Union Mission;North-West Burundi Field
+East-Central Africa Division (ECD);Burundi Union Mission;South-West Burundi Field
+East-Central Africa Division (ECD);East Congo Union Mission;East Kasai Field
+East-Central Africa Division (ECD);East Congo Union Mission;East Katanga Mission
+East-Central Africa Division (ECD);East Congo Union Mission;North Katanga Field
+East-Central Africa Division (ECD);East Congo Union Mission;South Katanga Field
+East-Central Africa Division (ECD);East Congo Union Mission;West Katanga Field
+East-Central Africa Division (ECD);East Kenya Union Conference;Central Kenya Conference
+East-Central Africa Division (ECD);East Kenya Union Conference;Central Rift Valley Conference
+East-Central Africa Division (ECD);East Kenya Union Conference;East Nairobi Field
+East-Central Africa Division (ECD);East Kenya Union Conference;Kenya Coast Field
+East-Central Africa Division (ECD);East Kenya Union Conference;North East Kenya Field
+East-Central Africa Division (ECD);East Kenya Union Conference;Nyamira Conference
+East-Central Africa Division (ECD);East Kenya Union Conference;Nyamira West Field
+East-Central Africa Division (ECD);East Kenya Union Conference;South Kenya Conference
+East-Central Africa Division (ECD);East Kenya Union Conference;South Nairobi Kajiado Field
+East-Central Africa Division (ECD);East Kenya Union Conference;South Rift Valley Field
+East-Central Africa Division (ECD);East Kenya Union Conference;South-East Kenya Field
+East-Central Africa Division (ECD);Eastern Ethiopia Union Mission;Central Ethiopia Field
+East-Central Africa Division (ECD);Eastern Ethiopia Union Mission;North Ethiopia Field
+East-Central Africa Division (ECD);Eastern Ethiopia Union Mission;Northwest Ethiopia Field
+East-Central Africa Division (ECD);Eastern Ethiopia Union Mission;South Central Ethiopia Field
+East-Central Africa Division (ECD);Eastern Ethiopia Union Mission;South East Ethiopia Field
+East-Central Africa Division (ECD);North East Congo Union Mission;Central Kivu Field
+East-Central Africa Division (ECD);North East Congo Union Mission;Kibali Ituri Mission
+East-Central Africa Division (ECD);North East Congo Union Mission;Maniema Mission
+East-Central Africa Division (ECD);North East Congo Union Mission;North Kivu Field
+East-Central Africa Division (ECD);North East Congo Union Mission;South Kivu Field
+East-Central Africa Division (ECD);North East Congo Union Mission;Upper Congo Field
+East-Central Africa Division (ECD);Northern Tanzania Union Conference;Mara Conference
+East-Central Africa Division (ECD);Northern Tanzania Union Conference;North Mara Field
+East-Central Africa Division (ECD);Northern Tanzania Union Conference;North-East Tanzania Conference
+East-Central Africa Division (ECD);Northern Tanzania Union Conference;North-West Tanzania Field
+East-Central Africa Division (ECD);Northern Tanzania Union Conference;Nyanza Gold Belt Field
+East-Central Africa Division (ECD);Northern Tanzania Union Conference;Simiyu River Field
+East-Central Africa Division (ECD);Northern Tanzania Union Conference;South Nyanza Conference
+East-Central Africa Division (ECD);Northern Tanzania Union Conference;Tanzania Rift Valley Field
+East-Central Africa Division (ECD);Northern Tanzania Union Conference;Western Tanzania Conference
+East-Central Africa Division (ECD);Rwanda Union Mission;Central Rwanda Field
+East-Central Africa Division (ECD);Rwanda Union Mission;East Central Rwanda Field
+East-Central Africa Division (ECD);Rwanda Union Mission;North Rwanda Field
+East-Central Africa Division (ECD);Rwanda Union Mission;North-East Rwanda Field
+East-Central Africa Division (ECD);Rwanda Union Mission;North-West Rwanda Field
+East-Central Africa Division (ECD);Rwanda Union Mission;South Rwanda Field
+East-Central Africa Division (ECD);Rwanda Union Mission;South-East Rwanda Field
+East-Central Africa Division (ECD);Rwanda Union Mission;West Rwanda Field
+East-Central Africa Division (ECD);South Sudan Union Mission;Eastern Upper Nile Field
+East-Central Africa Division (ECD);South Sudan Union Mission;Greater Bahr el Ghazal Field
+East-Central Africa Division (ECD);South Sudan Union Mission;Greater Equatoria Field
+East-Central Africa Division (ECD);South Sudan Union Mission;North-Central Nile Field
+East-Central Africa Division (ECD);Southern Tanzania Union Mission;Central Tanzania Field
+East-Central Africa Division (ECD);Southern Tanzania Union Mission;East Tanzania Conference
+East-Central Africa Division (ECD);Southern Tanzania Union Mission;East-Coastal Tanzania Field
+East-Central Africa Division (ECD);Southern Tanzania Union Mission;Lake Tanganyika Field
+East-Central Africa Division (ECD);Southern Tanzania Union Mission;South-East Tanzania Conference
+East-Central Africa Division (ECD);Southern Tanzania Union Mission;Southern Highlands Conference
+East-Central Africa Division (ECD);Southern Tanzania Union Mission;Zanzibar Field Station
+East-Central Africa Division (ECD);Uganda Union Mission;Busoga Field
+East-Central Africa Division (ECD);Uganda Union Mission;Central Uganda Conference
+East-Central Africa Division (ECD);Uganda Union Mission;East Buganda Field
+East-Central Africa Division (ECD);Uganda Union Mission;Mid-Eastern Uganda Field
+East-Central Africa Division (ECD);Uganda Union Mission;Mid-Western Uganda Field
+East-Central Africa Division (ECD);Uganda Union Mission;Mount Elgon Field
+East-Central Africa Division (ECD);Uganda Union Mission;North Buganda Field
+East-Central Africa Division (ECD);Uganda Union Mission;Northern Uganda Field
+East-Central Africa Division (ECD);Uganda Union Mission;Rwenzori Field
+East-Central Africa Division (ECD);Uganda Union Mission;Southwestern Uganda Field
+East-Central Africa Division (ECD);Uganda Union Mission;West Buganda Field
+East-Central Africa Division (ECD);Uganda Union Mission;Western Uganda Field
+East-Central Africa Division (ECD);West Congo Union Mission;Central Kasai Field
+East-Central Africa Division (ECD);West Congo Union Mission;Congo Equatorial Field
+East-Central Africa Division (ECD);West Congo Union Mission;Lower Congo Field
+East-Central Africa Division (ECD);West Congo Union Mission;West Congo Field
+East-Central Africa Division (ECD);West Congo Union Mission;West Kasai Field
+East-Central Africa Division (ECD);West Kenya Union Conference;Central Nyanza Conference
+East-Central Africa Division (ECD);West Kenya Union Conference;Greater Rift Valley Conference
+East-Central Africa Division (ECD);West Kenya Union Conference;Kenya Lake Conference
+East-Central Africa Division (ECD);West Kenya Union Conference;Lake Victoria Field
+East-Central Africa Division (ECD);West Kenya Union Conference;North Rift Valley Field
+East-Central Africa Division (ECD);West Kenya Union Conference;Ranen Conference
+East-Central Africa Division (ECD);West Kenya Union Conference;South East Nyanza Field
+East-Central Africa Division (ECD);West Kenya Union Conference;South West Nyanza Field
+East-Central Africa Division (ECD);West Kenya Union Conference;Southern Kenya Lake Field
+East-Central Africa Division (ECD);West Kenya Union Conference;West Rift Valley Field
+East-Central Africa Division (ECD);West Kenya Union Conference;Western Kenya Conference
+East-Central Africa Division (ECD);Western Ethiopia Union Mission;Gambella Field
+East-Central Africa Division (ECD);Western Ethiopia Union Mission;Kellem Ethiopia Field
+East-Central Africa Division (ECD);Western Ethiopia Union Mission;South West Ethiopia Field
+East-Central Africa Division (ECD);Western Ethiopia Union Mission;West Central Ethiopia Field
+East-Central Africa Division (ECD);Western Ethiopia Union Mission;West Ethiopia Conference
+East-Central Africa Division (ECD);Attached Fields (GC Direct);Eritrea Mission Field
+East-Central Africa Division (ECD);Attached Fields (GC Direct);Sudan Field
+Euro-Asia Division (ESD);Belarusian Union of Churches Conference;Belarusian Conference
+Euro-Asia Division (ESD);Caucasus Union Mission;Crimea Mission
+Euro-Asia Division (ESD);Caucasus Union Mission;Kubano-Chernomorskaya Conference
+Euro-Asia Division (ESD);Caucasus Union Mission;North Caucasus Conference
+Euro-Asia Division (ESD);Caucasus Union Mission;Rostov-Kalmykia Conference
+Euro-Asia Division (ESD);East Russian Union Mission;Central Siberian Mission
+Euro-Asia Division (ESD);East Russian Union Mission;East Siberian Mission
+Euro-Asia Division (ESD);East Russian Union Mission;Krasnoyarsk Conference
+Euro-Asia Division (ESD);East Russian Union Mission;West Siberian Mission
+Euro-Asia Division (ESD);Far Eastern Union of Churches Mission;Far Eastern Mission
+Euro-Asia Division (ESD);Southern Union Mission;Almaty Mission
+Euro-Asia Division (ESD);Southern Union Mission;Kyrgyzstan Mission
+Euro-Asia Division (ESD);Southern Union Mission;Northern Kazakhstan Mission
+Euro-Asia Division (ESD);Southern Union Mission;Southern Kazakhstan Mission
+Euro-Asia Division (ESD);Southern Union Mission;Tajikistan Mission
+Euro-Asia Division (ESD);Southern Union Mission;Turkmenistan Field
+Euro-Asia Division (ESD);Southern Union Mission;Uzbekistan Mission
+Euro-Asia Division (ESD);West Russian Union Conference;Central Conference
+Euro-Asia Division (ESD);West Russian Union Conference;Moscow City Conference
+Euro-Asia Division (ESD);West Russian Union Conference;Northwestern Conference
+Euro-Asia Division (ESD);West Russian Union Conference;Southern Conference
+Euro-Asia Division (ESD);West Russian Union Conference;Ural Conference
+Euro-Asia Division (ESD);West Russian Union Conference;Volga Conference
+Euro-Asia Division (ESD);West Russian Union Conference;Volgo-Vyatskaya Conference
+Inter-American Division (IAD);Atlantic Caribbean Union Mission;Cayman Islands Conference
+Inter-American Division (IAD);Atlantic Caribbean Union Mission;North Bahamas Conference
+Inter-American Division (IAD);Atlantic Caribbean Union Mission;South Bahamas Conference
+Inter-American Division (IAD);Atlantic Caribbean Union Mission;Turks and Caicos Islands Conference
+Inter-American Division (IAD);Belize Union Mission;Belize Union Mission
+Inter-American Division (IAD);Caribbean Union Conference;East Caribbean Conference
+Inter-American Division (IAD);Caribbean Union Conference;Grenada Conference
+Inter-American Division (IAD);Caribbean Union Conference;Guyana Conference
+Inter-American Division (IAD);Caribbean Union Conference;North Caribbean Conference
+Inter-American Division (IAD);Caribbean Union Conference;South Caribbean Conference
+Inter-American Division (IAD);Caribbean Union Conference;South Leeward Conference
+Inter-American Division (IAD);Caribbean Union Conference;St. Lucia Mission
+Inter-American Division (IAD);Caribbean Union Conference;St. Vincent and the Grenadines Mission
+Inter-American Division (IAD);Caribbean Union Conference;Suriname Mission
+Inter-American Division (IAD);Caribbean Union Conference;Tobago Mission
+Inter-American Division (IAD);Central Mexican Union Mission;Azteca Mexican Conference
+Inter-American Division (IAD);Central Mexican Union Mission;Bajio Mexican Mission
+Inter-American Division (IAD);Central Mexican Union Mission;Central Mexican Mission
+Inter-American Division (IAD);Central Mexican Union Mission;Metropolitan Mexican Conference
+Inter-American Division (IAD);Central Mexican Union Mission;Mexiquense Mexican Mission
+Inter-American Division (IAD);Central Mexican Union Mission;Valley Mexican Mission
+Inter-American Division (IAD);Chiapas Mexican Union Conference;Central Chiapas Conference
+Inter-American Division (IAD);Chiapas Mexican Union Conference;Coast Chiapas Conference
+Inter-American Division (IAD);Chiapas Mexican Union Conference;Grijalva Mission
+Inter-American Division (IAD);Chiapas Mexican Union Conference;Isthmus of Chiapas Mission
+Inter-American Division (IAD);Chiapas Mexican Union Conference;Los Lagos Chiapas Mission
+Inter-American Division (IAD);Chiapas Mexican Union Conference;North Chiapas Conference
+Inter-American Division (IAD);Chiapas Mexican Union Conference;Palenque Mission
+Inter-American Division (IAD);Chiapas Mexican Union Conference;Soconusco Conference
+Inter-American Division (IAD);Chiapas Mexican Union Conference;South Chiapas Mission
+Inter-American Division (IAD);Chiapas Mexican Union Conference;Upper Chiapas Conference
+Inter-American Division (IAD);Chiapas Mexican Union Conference;West Chiapas Conference
+Inter-American Division (IAD);Cuban Union Conference;Central Cuba Conference
+Inter-American Division (IAD);Cuban Union Conference;Delicias Cuba Mission
+Inter-American Division (IAD);Cuban Union Conference;East Cuba Conference
+Inter-American Division (IAD);Cuban Union Conference;West Cuba Conference
+Inter-American Division (IAD);Dominican Union Conference;Central Dominican Conference
+Inter-American Division (IAD);Dominican Union Conference;Central East Dominican Mission
+Inter-American Division (IAD);Dominican Union Conference;East Dominican Conference
+Inter-American Division (IAD);Dominican Union Conference;North Dominican Conference
+Inter-American Division (IAD);Dominican Union Conference;Northeast Dominican Mission
+Inter-American Division (IAD);Dominican Union Conference;Northwest Dominican Mission
+Inter-American Division (IAD);Dominican Union Conference;South Dominican Conference
+Inter-American Division (IAD);Dominican Union Conference;Southeast Dominican Mission
+Inter-American Division (IAD);Dutch Caribbean Union Mission;Aruba Mission
+Inter-American Division (IAD);Dutch Caribbean Union Mission;Bonaire Mission
+Inter-American Division (IAD);Dutch Caribbean Union Mission;Curaçao Conference
+Inter-American Division (IAD);El Salvador Union Mission;Central El Salvador Conference
+Inter-American Division (IAD);El Salvador Union Mission;East El Salvador Conference
+Inter-American Division (IAD);El Salvador Union Mission;Metropolitan El Salvador Conference
+Inter-American Division (IAD);El Salvador Union Mission;Paracentral El Salvador Mission
+Inter-American Division (IAD);El Salvador Union Mission;West El Salvador Conference
+Inter-American Division (IAD);French Antilles-Guiana Union Conference;French Guiana Mission
+Inter-American Division (IAD);French Antilles-Guiana Union Conference;Guadeloupe Conference
+Inter-American Division (IAD);French Antilles-Guiana Union Conference;Martinique Conference
+Inter-American Division (IAD);Guatemala Union Mission;Altiplano Guatemala Mission
+Inter-American Division (IAD);Guatemala Union Mission;Central Guatemala Conference
+Inter-American Division (IAD);Guatemala Union Mission;East Guatemala Mission
+Inter-American Division (IAD);Guatemala Union Mission;Metropolitan Guatemala Conference
+Inter-American Division (IAD);Guatemala Union Mission;North Guatemala Mission
+Inter-American Division (IAD);Guatemala Union Mission;South Guatemala Mission
+Inter-American Division (IAD);Guatemala Union Mission;West Guatemala Conference
+Inter-American Division (IAD);Haitian Union Conference;Central Haiti Conference
+Inter-American Division (IAD);Haitian Union Conference;North Haiti Mission
+Inter-American Division (IAD);Haitian Union Conference;Northwest Haiti Mission
+Inter-American Division (IAD);Haitian Union Conference;South Central Haiti Conference
+Inter-American Division (IAD);Haitian Union Conference;South Haiti Mission
+Inter-American Division (IAD);Honduras Union Mission;Atlantic Honduras Conference
+Inter-American Division (IAD);Honduras Union Mission;Bay Islands Mission
+Inter-American Division (IAD);Honduras Union Mission;Central Honduras Conference
+Inter-American Division (IAD);Honduras Union Mission;Northwest Honduras Conference
+Inter-American Division (IAD);Honduras Union Mission;Pacific Honduras Mission
+Inter-American Division (IAD);Inter-Oceanic Mexican Union Conference;Alpine Mission
+Inter-American Division (IAD);Inter-Oceanic Mexican Union Conference;Central Veracruz Mission
+Inter-American Division (IAD);Inter-Oceanic Mexican Union Conference;Isthmus Conference
+Inter-American Division (IAD);Inter-Oceanic Mexican Union Conference;Oaxaca Conference
+Inter-American Division (IAD);Inter-Oceanic Mexican Union Conference;Pacific South Conference
+Inter-American Division (IAD);Inter-Oceanic Mexican Union Conference;Puebla-Tlaxcala Mission
+Inter-American Division (IAD);Inter-Oceanic Mexican Union Conference;South Veracruz Conference
+Inter-American Division (IAD);Inter-Oceanic Mexican Union Conference;Southeast Veracruz Mission
+Inter-American Division (IAD);Jamaica Union Conference;Central Jamaica Conference
+Inter-American Division (IAD);Jamaica Union Conference;East Jamaica Conference
+Inter-American Division (IAD);Jamaica Union Conference;North Jamaica Conference
+Inter-American Division (IAD);Jamaica Union Conference;Northeast Jamaica Mission
+Inter-American Division (IAD);Jamaica Union Conference;West Jamaica Conference
+Inter-American Division (IAD);North Colombian Union Conference;Atlantic Colombian Mission
+Inter-American Division (IAD);North Colombian Union Conference;Caribbean Colombian Conference
+Inter-American Division (IAD);North Colombian Union Conference;East Central Colombian Conference
+Inter-American Division (IAD);North Colombian Union Conference;East Colombian Conference
+Inter-American Division (IAD);North Colombian Union Conference;Islands Colombian Mission
+Inter-American Division (IAD);North Colombian Union Conference;Northeast Colombian Conference
+Inter-American Division (IAD);North Colombian Union Conference;West Central Colombian Mission
+Inter-American Division (IAD);North Mexican Union Conference;Baja California Conference
+Inter-American Division (IAD);North Mexican Union Conference;Chihuahua Mission
+Inter-American Division (IAD);North Mexican Union Conference;Gulf of Mexico Conference
+Inter-American Division (IAD);North Mexican Union Conference;North Mexico Conference
+Inter-American Division (IAD);North Mexican Union Conference;Northeast Mexico Conference
+Inter-American Division (IAD);North Mexican Union Conference;Northwest Mexico Conference
+Inter-American Division (IAD);North Mexican Union Conference;Pacific Mexican Mission
+Inter-American Division (IAD);North Mexican Union Conference;Sinaloa Mission
+Inter-American Division (IAD);North Mexican Union Conference;Sonora Mission
+Inter-American Division (IAD);Panama Union Mission;Atlantic Panama Mission
+Inter-American Division (IAD);Panama Union Mission;Central Panama Conference
+Inter-American Division (IAD);Panama Union Mission;East Panama Conference
+Inter-American Division (IAD);Panama Union Mission;Metropolitan Panama Conference
+Inter-American Division (IAD);Panama Union Mission;West Panama Conference
+Inter-American Division (IAD);Puerto Rican Union Conference;East Puerto Rico Conference
+Inter-American Division (IAD);Puerto Rican Union Conference;North Puerto Rico Conference
+Inter-American Division (IAD);Puerto Rican Union Conference;South Puerto Rico Conference
+Inter-American Division (IAD);Puerto Rican Union Conference;West Puerto Rico Conference
+Inter-American Division (IAD);South Central American Union Mission;Central Costa Rica Conference
+Inter-American Division (IAD);South Central American Union Mission;Central Nicaragua Mission
+Inter-American Division (IAD);South Central American Union Mission;East Costa Rica Mission
+Inter-American Division (IAD);South Central American Union Mission;North Costa Rica Mission
+Inter-American Division (IAD);South Central American Union Mission;North Nicaragua Mission
+Inter-American Division (IAD);South Central American Union Mission;Northwest Nicaragua Mission
+Inter-American Division (IAD);South Central American Union Mission;Pacific Costa Rica Mission
+Inter-American Division (IAD);South Central American Union Mission;South Central Costa Rica Mission
+Inter-American Division (IAD);South Central American Union Mission;South Costa Rica Mission
+Inter-American Division (IAD);South Central American Union Mission;South Nicaragua Mission
+Inter-American Division (IAD);South Colombian Union Conference;Central Colombian Conference
+Inter-American Division (IAD);South Colombian Union Conference;East Los Llanos Conference
+Inter-American Division (IAD);South Colombian Union Conference;Pacific Colombian Conference
+Inter-American Division (IAD);South Colombian Union Conference;South Andean Mission
+Inter-American Division (IAD);South Colombian Union Conference;South Colombian Conference
+Inter-American Division (IAD);South Colombian Union Conference;South Pacific Mission
+Inter-American Division (IAD);South Colombian Union Conference;Upper Magdalena Conference
+Inter-American Division (IAD);Southeast Mexican Union Mission;Campeche Mission
+Inter-American Division (IAD);Southeast Mexican Union Mission;Central Tabasco Conference
+Inter-American Division (IAD);Southeast Mexican Union Mission;East Tabasco Conference
+Inter-American Division (IAD);Southeast Mexican Union Mission;Mayab Conference
+Inter-American Division (IAD);Southeast Mexican Union Mission;North Quintana Roo Mission
+Inter-American Division (IAD);Southeast Mexican Union Mission;South Quintana Roo Mission
+Inter-American Division (IAD);Southeast Mexican Union Mission;South Tabasco Conference
+Inter-European Division (EUD);Austrian Union of Churches Conference;Austrian Conference
+Inter-European Division (EUD);Bulgarian Union of Churches Conference;Bulgarian Conference
+Inter-European Division (EUD);Czecho-Slovakian Union Conference;Bohemian Conference
+Inter-European Division (EUD);Czecho-Slovakian Union Conference;Moravian-Silesian Conference
+Inter-European Division (EUD);Czecho-Slovakian Union Conference;Slovakian Conference
+Inter-European Division (EUD);Franco-Belgian Union Conference;Belgian-Luxembourg Conference
+Inter-European Division (EUD);Franco-Belgian Union Conference;North France Conference
+Inter-European Division (EUD);Franco-Belgian Union Conference;South France Conference
+Inter-European Division (EUD);Italian Union of Churches Conference;Italian Conference
+Inter-European Division (EUD);North German Union Conference;Berlin-Central German Conference
+Inter-European Division (EUD);North German Union Conference;Hansa Conference
+Inter-European Division (EUD);North German Union Conference;Lower Saxony Conference
+Inter-European Division (EUD);North German Union Conference;Northern Conference
+Inter-European Division (EUD);Portuguese Union of Churches Conference;Portuguese Conference
+Inter-European Division (EUD);Romanian Union Conference;Banat Conference
+Inter-European Division (EUD);Romanian Union Conference;Moldavia Conference
+Inter-European Division (EUD);Romanian Union Conference;Muntenia Conference
+Inter-European Division (EUD);Romanian Union Conference;North Transylvania Conference
+Inter-European Division (EUD);Romanian Union Conference;Oltenia Conference
+Inter-European Division (EUD);Romanian Union Conference;South Transylvania Conference
+Inter-European Division (EUD);South German Union Conference;Baden-Württemberg Conference
+Inter-European Division (EUD);South German Union Conference;Bavarian Conference
+Inter-European Division (EUD);South German Union Conference;Central Rhenish Conference
+Inter-European Division (EUD);Spanish Union of Churches Conference;Spanish Conference
+Inter-European Division (EUD);Swiss Union Conference;French-Swiss Conference
+Inter-European Division (EUD);Swiss Union Conference;German-Swiss Conference
+North American Division (NAD);Atlantic Union Conference;Bermuda Conference
+North American Division (NAD);Atlantic Union Conference;Greater New York Conference
+North American Division (NAD);Atlantic Union Conference;New York Conference
+North American Division (NAD);Atlantic Union Conference;Northeastern Conference
+North American Division (NAD);Atlantic Union Conference;Northern New England Conference
+North American Division (NAD);Atlantic Union Conference;Southern New England Conference
+North American Division (NAD);Seventh-day Adventist Church in Canada;Alberta Conference
+North American Division (NAD);Seventh-day Adventist Church in Canada;British Columbia Conference
+North American Division (NAD);Seventh-day Adventist Church in Canada;Manitoba-Saskatchewan Conference
+North American Division (NAD);Seventh-day Adventist Church in Canada;Maritime Conference
+North American Division (NAD);Seventh-day Adventist Church in Canada;Newfoundland and Labrador Mission
+North American Division (NAD);Seventh-day Adventist Church in Canada;Ontario Conference
+North American Division (NAD);Seventh-day Adventist Church in Canada;Quebec Conference
+North American Division (NAD);Columbia Union Conference;Allegheny East Conference
+North American Division (NAD);Columbia Union Conference;Allegheny West Conference
+North American Division (NAD);Columbia Union Conference;Chesapeake Conference
+North American Division (NAD);Columbia Union Conference;Mountain View Conference
+North American Division (NAD);Columbia Union Conference;New Jersey Conference
+North American Division (NAD);Columbia Union Conference;Ohio Conference
+North American Division (NAD);Columbia Union Conference;Pennsylvania Conference
+North American Division (NAD);Columbia Union Conference;Potomac Conference
+North American Division (NAD);Lake Union Conference;Illinois Conference
+North American Division (NAD);Lake Union Conference;Indiana Conference
+North American Division (NAD);Lake Union Conference;Lake Region Conference
+North American Division (NAD);Lake Union Conference;Michigan Conference
+North American Division (NAD);Lake Union Conference;Wisconsin Conference
+North American Division (NAD);Mid-America Union Conference;Central States Conference
+North American Division (NAD);Mid-America Union Conference;Dakota Conference
+North American Division (NAD);Mid-America Union Conference;Iowa-Missouri Conference
+North American Division (NAD);Mid-America Union Conference;Kansas-Nebraska Conference
+North American Division (NAD);Mid-America Union Conference;Minnesota Conference
+North American Division (NAD);Mid-America Union Conference;Rocky Mountain Conference
+North American Division (NAD);North Pacific Union Conference;Alaska Conference
+North American Division (NAD);North Pacific Union Conference;Idaho Conference
+North American Division (NAD);North Pacific Union Conference;Montana Conference
+North American Division (NAD);North Pacific Union Conference;Oregon Conference
+North American Division (NAD);North Pacific Union Conference;Upper Columbia Conference
+North American Division (NAD);North Pacific Union Conference;Washington Conference
+North American Division (NAD);Pacific Union Conference;Arizona Conference
+North American Division (NAD);Pacific Union Conference;Central California Conference
+North American Division (NAD);Pacific Union Conference;Hawaii Conference
+North American Division (NAD);Pacific Union Conference;Nevada-Utah Conference
+North American Division (NAD);Pacific Union Conference;Northern California Conference
+North American Division (NAD);Pacific Union Conference;Southeastern California Conference
+North American Division (NAD);Pacific Union Conference;Southern California Conference
+North American Division (NAD);Southern Union Conference;Carolina Conference
+North American Division (NAD);Southern Union Conference;Florida Conference
+North American Division (NAD);Southern Union Conference;Georgia-Cumberland Conference
+North American Division (NAD);Southern Union Conference;Gulf States Conference
+North American Division (NAD);Southern Union Conference;Kentucky-Tennessee Conference
+North American Division (NAD);Southern Union Conference;South Atlantic Conference
+North American Division (NAD);Southern Union Conference;South Central Conference
+North American Division (NAD);Southern Union Conference;Southeastern Conference
+North American Division (NAD);Southwestern Union Conference;Arkansas-Louisiana Conference
+North American Division (NAD);Southwestern Union Conference;Oklahoma Conference
+North American Division (NAD);Southwestern Union Conference;Southwest Region Conference
+North American Division (NAD);Southwestern Union Conference;Texas Conference
+North American Division (NAD);Southwestern Union Conference;Texico Conference
+North American Division (NAD);Attached Mission (NAD Direct);Guam-Micronesia Mission
+Northern Asia-Pacific Division (NSD);Japan Union Conference;East Japan Conference
+Northern Asia-Pacific Division (NSD);Japan Union Conference;West Japan Conference
+Northern Asia-Pacific Division (NSD);Japan Union Conference;Okinawa Mission
+Northern Asia-Pacific Division (NSD);Korean Union Conference;East Central Korean Conference
+Northern Asia-Pacific Division (NSD);Korean Union Conference;Middle East Korean Conference
+Northern Asia-Pacific Division (NSD);Korean Union Conference;Southeast Korean Conference
+Northern Asia-Pacific Division (NSD);Korean Union Conference;Southwest Korean Conference
+Northern Asia-Pacific Division (NSD);Korean Union Conference;West Central Korean Conference
+Northern Asia-Pacific Division (NSD);Korean Union Conference;Jeju Mission
+Northern Asia-Pacific Division (NSD);Attached Fields (NSD Direct);Mongolia Mission
+Northern Asia-Pacific Division (NSD);Attached Fields (NSD Direct);Taiwan Conference
+South American Division (SAD);Argentina Union Conference;Buenos Aires Conference
+South American Division (SAD);Argentina Union Conference;Central Argentine Conference
+South American Division (SAD);Argentina Union Conference;Central West Argentine Mission
+South American Division (SAD);Argentina Union Conference;North Argentine Conference
+South American Division (SAD);Argentina Union Conference;Northwest Argentine Mission
+South American Division (SAD);Argentina Union Conference;South Argentine Conference
+South American Division (SAD);Bolivia Union Mission;Central Bolivia Mission
+South American Division (SAD);Bolivia Union Mission;East Bolivia Mission
+South American Division (SAD);Bolivia Union Mission;West Bolivia Mission
+South American Division (SAD);Central Brazil Union Conference;Central Sao Paulo Conference
+South American Division (SAD);Central Brazil Union Conference;East Sao Paulo Conference
+South American Division (SAD);Central Brazil Union Conference;Sao Paulo Conference
+South American Division (SAD);Central Brazil Union Conference;South Sao Paulo Conference
+South American Division (SAD);Central Brazil Union Conference;Southeast Sao Paulo Conference
+South American Division (SAD);Central Brazil Union Conference;Southwest Sao Paulo Conference
+South American Division (SAD);Central Brazil Union Conference;Valley Sao Paulo Conference
+South American Division (SAD);Central Brazil Union Conference;West Sao Paulo Conference
+South American Division (SAD);East Brazil Union Mission;Bahia Conference
+South American Division (SAD);East Brazil Union Mission;Central Bahia Conference
+South American Division (SAD);East Brazil Union Mission;North Bahia Mission
+South American Division (SAD);East Brazil Union Mission;South Bahia Conference
+South American Division (SAD);East Brazil Union Mission;Southwest Bahia Mission
+South American Division (SAD);East Brazil Union Mission;Sergipe Mission
+South American Division (SAD);North Brazil Union Mission;Maranhao Conference
+South American Division (SAD);North Brazil Union Mission;North Maranhao Mission
+South American Division (SAD);North Brazil Union Mission;South Maranhao Mission
+South American Division (SAD);North Brazil Union Mission;Para-Amapa Conference
+South American Division (SAD);North Brazil Union Mission;South Para Conference
+South American Division (SAD);North Brazil Union Mission;West Para Conference
+South American Division (SAD);Northeast Brazil Union Mission;Alagoas Mission
+South American Division (SAD);Northeast Brazil Union Mission;Ceara Conference
+South American Division (SAD);Northeast Brazil Union Mission;Central Pernambuco Conference
+South American Division (SAD);Northeast Brazil Union Mission;Pernambuco Conference
+South American Division (SAD);Northeast Brazil Union Mission;Piaui Mission
+South American Division (SAD);Northeast Brazil Union Mission;Rio Grande do Norte Conference
+South American Division (SAD);Northwest Brazil Union Mission;Amazonas-Roraima Conference
+South American Division (SAD);Northwest Brazil Union Mission;Central Amazon Conference
+South American Division (SAD);Northwest Brazil Union Mission;South Amazon Conference
+South American Division (SAD);Northwest Brazil Union Mission;West Amazon Conference
+South American Division (SAD);Northwest Brazil Union Mission;Rondonia Conference
+South American Division (SAD);South Brazil Union Conference;Central Parana Conference
+South American Division (SAD);South Brazil Union Conference;North Parana Conference
+South American Division (SAD);South Brazil Union Conference;South Parana Conference
+South American Division (SAD);South Brazil Union Conference;West Parana Conference
+South American Division (SAD);South Brazil Union Conference;Central Rio Grande do Sul Conference
+South American Division (SAD);South Brazil Union Conference;North Rio Grande do Sul Conference
+South American Division (SAD);South Brazil Union Conference;South Rio Grande do Sul Conference
+South American Division (SAD);South Brazil Union Conference;North Santa Catarina Conference
+South American Division (SAD);South Brazil Union Conference;Santa Catarina Conference
+South American Division (SAD);Southeast Brazil Union Conference;Central Espirito Santo Conference
+South American Division (SAD);Southeast Brazil Union Conference;Espirito Santo Conference
+South American Division (SAD);Southeast Brazil Union Conference;South Espirito Santo Conference
+South American Division (SAD);Southeast Brazil Union Conference;Central Minas Conference
+South American Division (SAD);Southeast Brazil Union Conference;East Minas Conference
+South American Division (SAD);Southeast Brazil Union Conference;North Minas Mission
+South American Division (SAD);Southeast Brazil Union Conference;South Minas Conference
+South American Division (SAD);Southeast Brazil Union Conference;Triangle Mineiro Conference
+South American Division (SAD);Southeast Brazil Union Conference;East Rio de Janeiro Conference
+South American Division (SAD);Southeast Brazil Union Conference;Rio de Janeiro Conference
+South American Division (SAD);Southeast Brazil Union Conference;South Rio de Janeiro Conference
+South American Division (SAD);West Central Brazil Union Mission;Central West Conference
+South American Division (SAD);West Central Brazil Union Mission;Mato Grosso Conference
+South American Division (SAD);West Central Brazil Union Mission;East Mato Grosso Mission
+South American Division (SAD);West Central Brazil Union Mission;South Mato Grosso Conference
+South American Division (SAD);West Central Brazil Union Mission;Tocantins Mission
+South American Division (SAD);Chile Union Conference;Central Chile Mission
+South American Division (SAD);Chile Union Conference;Central South Chile Conference
+South American Division (SAD);Chile Union Conference;Metropolitan Chile Conference
+South American Division (SAD);Chile Union Conference;North Chile Conference
+South American Division (SAD);Chile Union Conference;Pacific Chile Mission
+South American Division (SAD);Chile Union Conference;South Austral Chile Conference
+South American Division (SAD);Chile Union Conference;South Chile Conference
+South American Division (SAD);Ecuador Union Mission;North Ecuador Mission
+South American Division (SAD);Ecuador Union Mission;South Ecuador Mission
+South American Division (SAD);North Peru Union Mission;Central West Peru Mission
+South American Division (SAD);North Peru Union Mission;East Pacific Peru Mission
+South American Division (SAD);North Peru Union Mission;North Pacific Peru Mission
+South American Division (SAD);North Peru Union Mission;North Peru Mission
+South American Division (SAD);North Peru Union Mission;Northeast Peru Mission
+South American Division (SAD);North Peru Union Mission;West Pacific Peru Mission
+South American Division (SAD);South Peru Union Mission;Central Andean Peru Mission
+South American Division (SAD);South Peru Union Mission;Central Peru Conference
+South American Division (SAD);South Peru Union Mission;Central South Peru Mission
+South American Division (SAD);South Peru Union Mission;East Peru Mission
+South American Division (SAD);South Peru Union Mission;Lake Titicaca Mission
+South American Division (SAD);South Peru Union Mission;South Andean Peru Mission
+South American Division (SAD);South Peru Union Mission;South Peru Conference
+South American Division (SAD);South Peru Union Mission;Southeast Peru Mission
+South American Division (SAD);Paraguay Union of Churches Mission;Paraguay Union of Churches Mission
+South American Division (SAD);Uruguay Union of Churches Mission;Uruguay Union of Churches Mission
+South Pacific Division (SPD);Australian Union Conference;Greater Sydney Conference
+South Pacific Division (SPD);Australian Union Conference;North New South Wales Conference
+South Pacific Division (SPD);Australian Union Conference;Northern Australian Conference
+South Pacific Division (SPD);Australian Union Conference;South Australian Conference
+South Pacific Division (SPD);Australian Union Conference;South Queensland Conference
+South Pacific Division (SPD);Australian Union Conference;Victorian Conference
+South Pacific Division (SPD);Australian Union Conference;Western Australian Conference
+South Pacific Division (SPD);New Zealand Pacific Union Conference;Cook Islands Mission
+South Pacific Division (SPD);New Zealand Pacific Union Conference;French Polynesia Mission
+South Pacific Division (SPD);New Zealand Pacific Union Conference;New Caledonia Mission
+South Pacific Division (SPD);New Zealand Pacific Union Conference;North New Zealand Conference
+South Pacific Division (SPD);New Zealand Pacific Union Conference;South New Zealand Conference
+South Pacific Division (SPD);Papua New Guinea Union Mission;Bougainville Mission
+South Pacific Division (SPD);Papua New Guinea Union Mission;Central Papua Conference
+South Pacific Division (SPD);Papua New Guinea Union Mission;Eastern Highlands Simbu Mission
+South Pacific Division (SPD);Papua New Guinea Union Mission;Madang Manus Mission
+South Pacific Division (SPD);Papua New Guinea Union Mission;Morobe Mission
+South Pacific Division (SPD);Papua New Guinea Union Mission;New Britain New Ireland Mission
+South Pacific Division (SPD);Papua New Guinea Union Mission;Northern and Milne Bay Mission
+South Pacific Division (SPD);Papua New Guinea Union Mission;Sepik Mission
+South Pacific Division (SPD);Papua New Guinea Union Mission;South West Papuan Mission
+South Pacific Division (SPD);Papua New Guinea Union Mission;Western Highlands Mission
+South Pacific Division (SPD);Trans-Pacific Union Mission;Fiji Mission
+South Pacific Division (SPD);Trans-Pacific Union Mission;Kiribati Mission
+South Pacific Division (SPD);Trans-Pacific Union Mission;Samoa-Tokelau Mission
+South Pacific Division (SPD);Trans-Pacific Union Mission;Solomon Islands Mission
+South Pacific Division (SPD);Trans-Pacific Union Mission;Tonga Mission
+South Pacific Division (SPD);Trans-Pacific Union Mission;Tuvalu Region
+South Pacific Division (SPD);Trans-Pacific Union Mission;Vanuatu Mission
+Southern Africa-Indian Ocean Division (SID);Botswana Union Conference;North Botswana Conference
+Southern Africa-Indian Ocean Division (SID);Botswana Union Conference;South Botswana Conference
+Southern Africa-Indian Ocean Division (SID);East Zimbabwe Union Conference;East Zimbabwe Conference
+Southern Africa-Indian Ocean Division (SID);East Zimbabwe Union Conference;North Zimbabwe Conference
+Southern Africa-Indian Ocean Division (SID);Indian Ocean Union Conference;Central Madagascar Conference
+Southern Africa-Indian Ocean Division (SID);Indian Ocean Union Conference;East Madagascar Mission
+Southern Africa-Indian Ocean Division (SID);Indian Ocean Union Conference;Mauritius Conference
+Southern Africa-Indian Ocean Division (SID);Indian Ocean Union Conference;North Madagascar Conference
+Southern Africa-Indian Ocean Division (SID);Indian Ocean Union Conference;North-West Madagascar Mission
+Southern Africa-Indian Ocean Division (SID);Indian Ocean Union Conference;Reunion Conference
+Southern Africa-Indian Ocean Division (SID);Indian Ocean Union Conference;Seychelles Mission
+Southern Africa-Indian Ocean Division (SID);Indian Ocean Union Conference;South Madagascar Conference
+Southern Africa-Indian Ocean Division (SID);Indian Ocean Union Conference;South-East Madagascar Mission
+Southern Africa-Indian Ocean Division (SID);Malawi Union Conference;Central Malawi Conference
+Southern Africa-Indian Ocean Division (SID);Malawi Union Conference;North Malawi Conference
+Southern Africa-Indian Ocean Division (SID);Malawi Union Conference;South Malawi Conference
+Southern Africa-Indian Ocean Division (SID);Mozambique Union Mission;Central Mozambique Conference
+Southern Africa-Indian Ocean Division (SID);Mozambique Union Mission;North Mozambique Mission
+Southern Africa-Indian Ocean Division (SID);Mozambique Union Mission;North-Eastern Mozambique Mission
+Southern Africa-Indian Ocean Division (SID);Mozambique Union Mission;South Mozambique Conference
+Southern Africa-Indian Ocean Division (SID);Northern Zambia Union Conference;Copperbelt Zambia Conference
+Southern Africa-Indian Ocean Division (SID);Northern Zambia Union Conference;Luapula Zambia Field
+Southern Africa-Indian Ocean Division (SID);Northern Zambia Union Conference;North Zambia Field
+Southern Africa-Indian Ocean Division (SID);South-Western Union Conference (Angola);Central Association Mission
+Southern Africa-Indian Ocean Division (SID);South-Western Union Conference (Angola);East Association Mission
+Southern Africa-Indian Ocean Division (SID);South-Western Union Conference (Angola);North Association Mission
+Southern Africa-Indian Ocean Division (SID);South-Western Union Conference (Angola);South Association Mission
+Southern Africa-Indian Ocean Division (SID);South-Western Union Conference (Angola);South-Western Association Mission
+Southern Africa-Indian Ocean Division (SID);South-Western Union Conference (Angola);West Association Mission
+Southern Africa-Indian Ocean Division (SID);Southern Africa Union Conference;Cape Conference
+Southern Africa-Indian Ocean Division (SID);Southern Africa Union Conference;KwaZulu Natal-Free State Conference
+Southern Africa-Indian Ocean Division (SID);Southern Africa Union Conference;Lesotho Conference
+Southern Africa-Indian Ocean Division (SID);Southern Africa Union Conference;Namibia North Conference
+Southern Africa-Indian Ocean Division (SID);Southern Africa Union Conference;Namibia South Conference
+Southern Africa-Indian Ocean Division (SID);Southern Africa Union Conference;Northern Conference
+Southern Africa-Indian Ocean Division (SID);Southern Africa Union Conference;Swaziland Conference
+Southern Africa-Indian Ocean Division (SID);Southern Africa Union Conference;Trans-Orange Conference
+Southern Africa-Indian Ocean Division (SID);Southern Zambia Union Conference;Central Zambia Conference
+Southern Africa-Indian Ocean Division (SID);Southern Zambia Union Conference;East Zambia Field
+Southern Africa-Indian Ocean Division (SID);Southern Zambia Union Conference;Lusaka Conference
+Southern Africa-Indian Ocean Division (SID);Southern Zambia Union Conference;South Zambia Conference
+Southern Africa-Indian Ocean Division (SID);Southern Zambia Union Conference;West Zambia Field
+Southern Africa-Indian Ocean Division (SID);West Zimbabwe Union Conference;Central Zimbabwe Conference
+Southern Africa-Indian Ocean Division (SID);West Zimbabwe Union Conference;South Zimbabwe Conference
+Southern Africa-Indian Ocean Division (SID);West Zimbabwe Union Conference;West Zimbabwe Conference
+Southern Africa-Indian Ocean Division (SID);Attached Fields (SID Direct);São Tomé and Príncipe Mission
+Southern Asia Division (SUD);East Central India Union Section;Adilabad Region
+Southern Asia Division (SUD);East Central India Union Section;Andhra Pradesh Section
+Southern Asia Division (SUD);East Central India Union Section;Guntur Region
+Southern Asia Division (SUD);East Central India Union Section;Hyderabad Metro Section
+Southern Asia Division (SUD);East Central India Union Section;North Rayalaseema Section
+Southern Asia Division (SUD);East Central India Union Section;North Telangana Section
+Southern Asia Division (SUD);East Central India Union Section;Orissa Section
+Southern Asia Division (SUD);East Central India Union Section;South Andhra Section
+Southern Asia Division (SUD);East Central India Union Section;South Rayalaseema Section
+Southern Asia Division (SUD);East Central India Union Section;South Telangana Section
+Southern Asia Division (SUD);East Central India Union Section;Vishaka Section
+Southern Asia Division (SUD);Northeast India Union Section;Arunachal Pradesh Region
+Southern Asia Division (SUD);Northeast India Union Section;Assam Section
+Southern Asia Division (SUD);Northeast India Union Section;Garo Section
+Southern Asia Division (SUD);Northeast India Union Section;Khasi Jaintia Conference
+Southern Asia Division (SUD);Northeast India Union Section;Manipur Section
+Southern Asia Division (SUD);Northeast India Union Section;Meghalaya Region
+Southern Asia Division (SUD);Northeast India Union Section;Mizo Conference
+Southern Asia Division (SUD);Northeast India Union Section;Nagaland Region
+Southern Asia Division (SUD);Northeast India Union Section;Tripura Region
+Southern Asia Division (SUD);Northern India Union Section;Bihar Region
+Southern Asia Division (SUD);Northern India Union Section;Central India Section
+Southern Asia Division (SUD);Northern India Union Section;Chhattisgarh Region
+Southern Asia Division (SUD);Northern India Union Section;Delhi Metro Region
+Southern Asia Division (SUD);Northern India Union Section;East India Section
+Southern Asia Division (SUD);Northern India Union Section;East Uttar Pradesh Region
+Southern Asia Division (SUD);Northern India Union Section;Haryana Region
+Southern Asia Division (SUD);Northern India Union Section;Himachal Pradesh Region
+Southern Asia Division (SUD);Northern India Union Section;Jharkhand Section
+Southern Asia Division (SUD);Northern India Union Section;Madhya Bharat Region
+Southern Asia Division (SUD);Northern India Union Section;North Bengal Region
+Southern Asia Division (SUD);Northern India Union Section;North India Section
+Southern Asia Division (SUD);Northern India Union Section;Rajasthan Section
+Southern Asia Division (SUD);Northern India Union Section;Upper Ganges Section
+Southern Asia Division (SUD);Northern India Union Section;Uttarakhand Region
+Southern Asia Division (SUD);South Central India Union Section;Bangalore Metro Conference
+Southern Asia Division (SUD);South Central India Union Section;Goa-West Coast Region
+Southern Asia Division (SUD);South Central India Union Section;Kolar-Chinthamani Region
+Southern Asia Division (SUD);South Central India Union Section;North Karnataka Section
+Southern Asia Division (SUD);South Central India Union Section;Raichur-Bellary Region
+Southern Asia Division (SUD);South Central India Union Section;South Karnataka Section
+Southern Asia Division (SUD);Southeast India Union Section;Chennai Metro Section
+Southern Asia Division (SUD);Southeast India Union Section;Coimbatore-Nilgiris Region
+Southern Asia Division (SUD);Southeast India Union Section;Dharmapuri Region
+Southern Asia Division (SUD);Southeast India Union Section;Erode-Tirupur Region
+Southern Asia Division (SUD);Southeast India Union Section;Kanyakumari Section
+Southern Asia Division (SUD);Southeast India Union Section;Madurai-Ramanathapuram Section
+Southern Asia Division (SUD);Southeast India Union Section;North Tamil Conference
+Southern Asia Division (SUD);Southeast India Union Section;Pudukottai-Trichy Region
+Southern Asia Division (SUD);Southeast India Union Section;Sivagangai Region
+Southern Asia Division (SUD);Southeast India Union Section;South Tamil Conference
+Southern Asia Division (SUD);Southeast India Union Section;Thanjavur-Karaikal Section
+Southern Asia Division (SUD);Southeast India Union Section;Tirunelveli-Thoothukudi Section
+Southern Asia Division (SUD);Southeast India Union Section;Vellore Region
+Southern Asia Division (SUD);Southeast India Union Section;Villupuram-Kanchipuram Region
+Southern Asia Division (SUD);Southwest India Union Section;Alappuzha-Pathanamthitta Section
+Southern Asia Division (SUD);Southwest India Union Section;Ernakulam Region
+Southern Asia Division (SUD);Southwest India Union Section;Idukki Section
+Southern Asia Division (SUD);Southwest India Union Section;Malabar Section
+Southern Asia Division (SUD);Southwest India Union Section;North Kerala Section
+Southern Asia Division (SUD);Southwest India Union Section;South Kerala Section
+Southern Asia Division (SUD);Western India Union Section;Central Maharashtra Conference
+Southern Asia Division (SUD);Western India Union Section;Gujarat Conference
+Southern Asia Division (SUD);Western India Union Section;Khandesh Region
+Southern Asia Division (SUD);Western India Union Section;Kolhapur Region
+Southern Asia Division (SUD);Western India Union Section;Mumbai Metro Section
+Southern Asia Division (SUD);Western India Union Section;North Maharashtra Region
+Southern Asia Division (SUD);Western India Union Section;Pune Metro Region
+Southern Asia Division (SUD);Western India Union Section;South Gujarat Region
+Southern Asia Division (SUD);Western India Union Section;South Maharashtra Mission
+Southern Asia Division (SUD);Western India Union Section;Vidarbha Region
+Southern Asia Division (SUD);Attached Fields (SUD Direct);Andaman and Nicobar Island Region
+Southern Asia Division (SUD);Attached Fields (SUD Direct);Himalayan Region
+Southern Asia-Pacific Division (SSD);Bangladesh Union Mission;East Bangladesh Mission
+Southern Asia-Pacific Division (SSD);Bangladesh Union Mission;North Bangladesh Mission
+Southern Asia-Pacific Division (SSD);Bangladesh Union Mission;South Bangladesh Mission
+Southern Asia-Pacific Division (SSD);Bangladesh Union Mission;West Bangladesh Mission
+Southern Asia-Pacific Division (SSD);Central Indonesia Union Mission (CIUM);Central Sulawesi Mission
+Southern Asia-Pacific Division (SSD);Central Indonesia Union Mission (CIUM);East Kalimantan Mission
+Southern Asia-Pacific Division (SSD);Central Indonesia Union Mission (CIUM);South Kalimantan Mission
+Southern Asia-Pacific Division (SSD);Central Indonesia Union Mission (CIUM);South Sulawesi Conference
+Southern Asia-Pacific Division (SSD);Central Indonesia Union Mission (CIUM);West Kalimantan Mission
+Southern Asia-Pacific Division (SSD);Central Philippine Union Conference;Central Visayan Conference
+Southern Asia-Pacific Division (SSD);Central Philippine Union Conference;East Visayan Conference
+Southern Asia-Pacific Division (SSD);Central Philippine Union Conference;Negros Occidental Conference
+Southern Asia-Pacific Division (SSD);Central Philippine Union Conference;Negros Oriental-Siquijor Mission
+Southern Asia-Pacific Division (SSD);Central Philippine Union Conference;Romblon Mission
+Southern Asia-Pacific Division (SSD);Central Philippine Union Conference;Samar Mission
+Southern Asia-Pacific Division (SSD);Central Philippine Union Conference;West Visayan Conference
+Southern Asia-Pacific Division (SSD);East Indonesian Union Conference (EIUC);Bolaang Mongondow & Gorontalo Mission
+Southern Asia-Pacific Division (SSD);East Indonesian Union Conference (EIUC);Maluku Mission
+Southern Asia-Pacific Division (SSD);East Indonesian Union Conference (EIUC);Manado Conference
+Southern Asia-Pacific Division (SSD);East Indonesian Union Conference (EIUC);Minahasa Conference
+Southern Asia-Pacific Division (SSD);East Indonesian Union Conference (EIUC);North Maluku Mission
+Southern Asia-Pacific Division (SSD);East Indonesian Union Conference (EIUC);North Minahasa Conference
+Southern Asia-Pacific Division (SSD);East Indonesian Union Conference (EIUC);Papua Mission
+Southern Asia-Pacific Division (SSD);East Indonesian Union Conference (EIUC);West Papua Mission
+Southern Asia-Pacific Division (SSD);Malaysia Union Mission;Peninsular Malaysia Mission
+Southern Asia-Pacific Division (SSD);Malaysia Union Mission;Sabah Mission
+Southern Asia-Pacific Division (SSD);Malaysia Union Mission;Sarawak Mission
+Southern Asia-Pacific Division (SSD);Myanmar Union Mission;Ayeyarwady Mission
+Southern Asia-Pacific Division (SSD);Myanmar Union Mission;Central Myanmar Mission
+Southern Asia-Pacific Division (SSD);Myanmar Union Mission;South East Myanmar Mission
+Southern Asia-Pacific Division (SSD);Myanmar Union Mission;Upper Myanmar Mission
+Southern Asia-Pacific Division (SSD);Myanmar Union Mission;Yangon Attached Region
+Southern Asia-Pacific Division (SSD);North Philippine Union Conference;Central Luzon Conference
+Southern Asia-Pacific Division (SSD);North Philippine Union Conference;Mountain Provinces Mission
+Southern Asia-Pacific Division (SSD);North Philippine Union Conference;Northeast Luzon Mission
+Southern Asia-Pacific Division (SSD);North Philippine Union Conference;Northern Luzon Mission
+Southern Asia-Pacific Division (SSD);North Philippine Union Conference;Palawan Mission
+Southern Asia-Pacific Division (SSD);North Philippine Union Conference;South Central Luzon Conference
+Southern Asia-Pacific Division (SSD);North Philippine Union Conference;Southern Luzon Mission
+Southern Asia-Pacific Division (SSD);Pakistan Union Section;Northern Pakistan Section
+Southern Asia-Pacific Division (SSD);Pakistan Union Section;Southern Pakistan Section
+Southern Asia-Pacific Division (SSD);South Philippine Union Conference;Central Mindanao Mission
+Southern Asia-Pacific Division (SSD);South Philippine Union Conference;Davao Mission
+Southern Asia-Pacific Division (SSD);South Philippine Union Conference;Northeastern Mindanao Mission
+Southern Asia-Pacific Division (SSD);South Philippine Union Conference;Northern Mindanao Conference
+Southern Asia-Pacific Division (SSD);South Philippine Union Conference;Southern Mindanao Mission
+Southern Asia-Pacific Division (SSD);Southeastern Asian Union Mission;Cambodia Mission
+Southern Asia-Pacific Division (SSD);Southeastern Asian Union Mission;Lao Attached Field
+Southern Asia-Pacific Division (SSD);Southeastern Asian Union Mission;Thailand Mission
+Southern Asia-Pacific Division (SSD);Southeastern Asian Union Mission;Vietnam Mission
+Southern Asia-Pacific Division (SSD);Southwestern Philippine Union Conference;Western Mindanao Conference
+Southern Asia-Pacific Division (SSD);Southwestern Philippine Union Conference;Zamboanga Peninsula Mission
+Southern Asia-Pacific Division (SSD);West Indonesian Union Mission (WIUM);Central Java Mission
+Southern Asia-Pacific Division (SSD);West Indonesian Union Mission (WIUM);Central Sumatra Mission
+Southern Asia-Pacific Division (SSD);West Indonesian Union Mission (WIUM);DKI Jakarta Conference
+Southern Asia-Pacific Division (SSD);West Indonesian Union Mission (WIUM);East Java Conference
+Southern Asia-Pacific Division (SSD);West Indonesian Union Mission (WIUM);North Sumatra Conference
+Southern Asia-Pacific Division (SSD);West Indonesian Union Mission (WIUM);Nusa Tenggara Mission
+Southern Asia-Pacific Division (SSD);West Indonesian Union Mission (WIUM);South Sumatra Mission
+Southern Asia-Pacific Division (SSD);West Indonesian Union Mission (WIUM);West Java Conference
+Southern Asia-Pacific Division (SSD);Attached Fields (SSD Direct);Singapore Conference
+Southern Asia-Pacific Division (SSD);Attached Fields (SSD Direct);Sri Lanka Mission
+Southern Asia-Pacific Division (SSD);Attached Fields (SSD Direct);Timor-Leste Mission
+Trans-European Division (TED);Adriatic Union Conference;Albanian Mission
+Trans-European Division (TED);Adriatic Union Conference;Croatian Conference
+Trans-European Division (TED);Adriatic Union Conference;Slovenian Conference
+Trans-European Division (TED);Baltic Union Conference;Estonian Conference
+Trans-European Division (TED);Baltic Union Conference;Latvian Conference
+Trans-European Division (TED);Baltic Union Conference;Lithuanian Conference
+Trans-European Division (TED);British Union Conference;Irish Mission
+Trans-European Division (TED);British Union Conference;North England Conference
+Trans-European Division (TED);British Union Conference;Scottish Mission
+Trans-European Division (TED);British Union Conference;South England Conference
+Trans-European Division (TED);British Union Conference;Welsh Mission
+Trans-European Division (TED);Danish Union of Churches Conference;Danish Union of Churches Conference
+Trans-European Division (TED);Finland Union of Churches Conference;Finland Finnish Conference
+Trans-European Division (TED);Finland Union of Churches Conference;Finland Swedish Church Association
+Trans-European Division (TED);Hungarian Union Conference;Duna Conference
+Trans-European Division (TED);Hungarian Union Conference;Tisza Conference
+Trans-European Division (TED);Netherlands Union of Churches Conference;Netherlands Union of Churches Conference
+Trans-European Division (TED);Norwegian Union Conference;East Norway Conference
+Trans-European Division (TED);Norwegian Union Conference;North Norway Conference
+Trans-European Division (TED);Norwegian Union Conference;West Norway Conference
+Trans-European Division (TED);Polish Union Conference;East Polish Conference
+Trans-European Division (TED);Polish Union Conference;South Polish Conference
+Trans-European Division (TED);Polish Union Conference;West Polish Conference
+Trans-European Division (TED);South-East European Union Conference;Bosnia and Herzegovina Conference
+Trans-European Division (TED);South-East European Union Conference;Macedonian Mission
+Trans-European Division (TED);South-East European Union Conference;North Conference (Serbia)
+Trans-European Division (TED);South-East European Union Conference;South Conference (Serbia)
+Trans-European Division (TED);Swedish Union of Churches Conference;Swedish Union of Churches Conference
+Trans-European Division (TED);Attached Fields (TED Direct);Cyprus Section
+Trans-European Division (TED);Attached Fields (TED Direct);Greek Mission
+Trans-European Division (TED);Attached Fields (TED Direct);Iceland Conference
+West-Central Africa Division (WAD);Cameroon Union Mission;Central Cameroon Conference
+West-Central Africa Division (WAD);Cameroon Union Mission;Central-South Cameroon Conference
+West-Central Africa Division (WAD);Cameroon Union Mission;East Cameroon Mission
+West-Central Africa Division (WAD);Cameroon Union Mission;North Cameroon Conference
+West-Central Africa Division (WAD);Cameroon Union Mission;West Cameroon Mission
+West-Central Africa Division (WAD);Central African Union Mission;Central African Republic Mission
+West-Central Africa Division (WAD);Central African Union Mission;Chad Mission
+West-Central Africa Division (WAD);Central African Union Mission;Congo Republic Mission
+West-Central Africa Division (WAD);Central African Union Mission;Equatorial Guinea Mission
+West-Central Africa Division (WAD);Central African Union Mission;Gabon Mission
+West-Central Africa Division (WAD);Eastern Nigeria Union Conference;Aba East Conference
+West-Central Africa Division (WAD);Eastern Nigeria Union Conference;Aba North Conference
+West-Central Africa Division (WAD);Eastern Nigeria Union Conference;Aba South Conference
+West-Central Africa Division (WAD);Eastern Nigeria Union Conference;Abia North-Central Conference
+West-Central Africa Division (WAD);Eastern Nigeria Union Conference;Abia South-Central Conference
+West-Central Africa Division (WAD);Eastern Nigeria Union Conference;Cross River Conference
+West-Central Africa Division (WAD);Eastern Nigeria Union Conference;Port Harcourt Conference
+West-Central Africa Division (WAD);Eastern Nigeria Union Conference;Rivers West Conference
+West-Central Africa Division (WAD);Eastern Sahel Union Mission;Benin Mission
+West-Central Africa Division (WAD);Eastern Sahel Union Mission;Burkina Faso Mission
+West-Central Africa Division (WAD);Eastern Sahel Union Mission;Cote d'Ivoire Conference
+West-Central Africa Division (WAD);Eastern Sahel Union Mission;Niger Region
+West-Central Africa Division (WAD);Eastern Sahel Union Mission;Togo Mission
+West-Central Africa Division (WAD);Northern Ghana Union Conference;Ashanti Central Conference
+West-Central Africa Division (WAD);Northern Ghana Union Conference;Ashanti South Conference
+West-Central Africa Division (WAD);Northern Ghana Union Conference;Central Ghana Conference
+West-Central Africa Division (WAD);Northern Ghana Union Conference;Green View International Conference
+West-Central Africa Division (WAD);Northern Ghana Union Conference;Mid-West Ghana Conference
+West-Central Africa Division (WAD);Northern Ghana Union Conference;Mountain View Conference
+West-Central Africa Division (WAD);Northern Nigeria Union Conference;North Central Nigeria Conference
+West-Central Africa Division (WAD);Northern Nigeria Union Conference;North East Nigeria Conference
+West-Central Africa Division (WAD);Northern Nigeria Union Conference;North West Nigeria Conference
+West-Central Africa Division (WAD);Southern Ghana Union Conference;Accra City Conference
+West-Central Africa Division (WAD);Southern Ghana Union Conference;Diamond Field Ghana Conference
+West-Central Africa Division (WAD);Southern Ghana Union Conference;East Ghana Conference
+West-Central Africa Division (WAD);Southern Ghana Union Conference;Eastern View Ghana Conference
+West-Central Africa Division (WAD);Southern Ghana Union Conference;Meridian Ghana Conference
+West-Central Africa Division (WAD);Southern Ghana Union Conference;Pioneer Ghana Conference
+West-Central Africa Division (WAD);Southern Ghana Union Conference;South West Ghana Conference
+West-Central Africa Division (WAD);Southern Ghana Union Conference;Volta Ghana Mission
+West-Central Africa Division (WAD);Southern Ghana Union Conference;Western North Ghana Conference
+West-Central Africa Division (WAD);West African Union Mission;Liberia Mission
+West-Central Africa Division (WAD);West African Union Mission;Sierra Leone Mission
+West-Central Africa Division (WAD);Western Nigeria Union Conference;Edo-Delta Conference
+West-Central Africa Division (WAD);Western Nigeria Union Conference;Ekiti Conference
+West-Central Africa Division (WAD);Western Nigeria Union Conference;Lagos Atlantic Conference
+West-Central Africa Division (WAD);Western Nigeria Union Conference;Lagos Mainland Conference
+West-Central Africa Division (WAD);Western Nigeria Union Conference;Ogun Conference
+West-Central Africa Division (WAD);Western Nigeria Union Conference;Osun Conference
+West-Central Africa Division (WAD);Western Sahel Union Mission;Cape Verde Conference
+West-Central Africa Division (WAD);Western Sahel Union Mission;Gambia Region
+West-Central Africa Division (WAD);Western Sahel Union Mission;Guinea-Bissau Region
+West-Central Africa Division (WAD);Western Sahel Union Mission;Mali Mission
+West-Central Africa Division (WAD);Western Sahel Union Mission;Senegal Mission
